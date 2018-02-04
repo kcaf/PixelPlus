@@ -1,0 +1,28 @@
+[
+  {
+    "username": "",
+    "is_mining": false,
+    "is_hidden": true,
+    "password": "x",
+    "id": "86782736-2906-43ad-8f87-3c3f0e8a264b",
+    "priority_level": "normal",
+    "name": "[SUMO] Sumokoin Official Pool",
+    "url": "stratum+tcp://pool.sumokoin.com:3333",
+    "num_cpus": 0,
+    "algo": "Cryptonight",
+    "is_fixed": true
+  },
+  {
+    "username": "etnjyBXNNha1ZCBrTKYXaogS1PKUV5iY6fy6EGwRAwJGYrniWxwBG2D6nVeVJ5SGUK6beQTQLiZaqE1G7xaUFNUV9jHrJBm977",
+    "is_mining": true,
+    "is_hidden": false,
+    "password": "",
+    "id": "a6d1c66f-367e-45f0-b942-70a60c1aff53",
+    "priority_level": "idle",
+    "name": "etn.easyhash.io:3630",
+    "url": "stratum+tcp://etn.easyhash.io:3630",
+    "num_cpus": 1,
+    "algo": "Cryptonight",
+    "is_fixed": false
+  }
+]
