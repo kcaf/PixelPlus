@@ -2,11 +2,13 @@
 Aesthetic mod for Minecraft Pixelmon
 
 ## Features
-- Remove the maximum character limit on Pixelmon names
-- Allows you to use custom colors and font formatting
+- Removes Pixelmon name length limit
+- Allows color code and formatting Pixelmon names!
+- Display IV of Pixelmon
+- Display EV of Pixelmon
 
 # Download
-Minecraft 1.12.2      - [PixelPlus 2.0.0](https://mega.nz/#!tmAxQATQ!c2tgVNFlCY6XhiaoOtmwDhfEV1Dxx2YmijeQ4SZsVLQ)
+Minecraft 1.12.2      - [PixelPlus 2.0.0](https://mega.nz/#!BjYS3Y5C!98SFFsSGPeugsdBZGe_Z-7Rd2PlX3wQBUOvSUeDxRh4)
 
 ## Screenshots
 ![1](https://i.imgur.com/BNGeI0W.png)
