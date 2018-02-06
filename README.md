@@ -8,7 +8,7 @@ Aesthetic mod for Minecraft Pixelmon
 - Display EV of Pixelmon
 
 # Download
-Minecraft 1.12.2      - [PixelPlus 2.0.0](https://mega.nz/#!BjYS3Y5C!98SFFsSGPeugsdBZGe_Z-7Rd2PlX3wQBUOvSUeDxRh4)
+Minecraft 1.12.2      - PixelPlus 2.0.0 (Coming Soon!)
 
 ## Screenshots
 ![1](https://i.imgur.com/BNGeI0W.png)
