@@ -1,10 +1,16 @@
 {
-    "homepage": "https://github.com/kcaf/PixelPlus",
     "1.12.2": {
-        "2.0.0": "https://github.com/kcaf/PixelPlus/wiki/Change-Log",
-        "2.0.0-a1": "https://github.com/kcaf/PixelPlus/wiki/Change-Log"
+        "2.0.0": "See https://github.com/kcaf/PixelPlus/wiki/Change-Log",
+        "2.0.0-a1": "See https://github.com/kcaf/PixelPlus/wiki/Change-Log"
     },
     "1.10.2": {
-        "1.0.0": "https://github.com/kcaf/PixelPlus/wiki/Change-Log"
+        "1.0.0": "See https://github.com/kcaf/PixelPlus/wiki/Change-Log"
+    },
+    "homepage": "https://github.com/kcaf/PixelPlus",
+    "promos": {
+        "1.12.2-latest": "2.0.0",
+        "1.12.2-recommended": "2.0.0",
+        "1.10.2-latest": "1.0.0",
+        "1.10.2-recommended": "1.0.0"
     }
 }
