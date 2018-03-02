@@ -1,44 +1,16 @@
 {
     "versionList": [
         {
-            "description": "Pixelmon Reforged",
-            "mcVersion": "Minecraft 1.12.2",
-            "modVersion": "2.0.0",
-            "pkVersion": "Pixelmon 6.1.0",
-            "changeLog": [ ],
-            "updateURL": "https://github.com/kcaf/PixelPlus",
-            "isDirectLink": "false",
-            "newFileName": ""
+            "homepage": "https://github.com/kcaf/PixelPlus",
+            "1.12.2": {
+                "2.0.0": "https://github.com/kcaf/PixelPlus/wiki/Change-Log"
+            }
         },
         {
-            "description": "Pixelmon Generations",
-            "mcVersion": "Minecraft 1.10.2",
-            "modVersion": "1.0.0",
-            "pkVersion": "Pixelmon 1.3.2",
-            "changeLog": [ ],
-            "updateURL": "https://github.com/kcaf/PixelPlus",
-            "isDirectLink": "false",
-            "newFileName": ""
-        },
-        {
-            "description": "Pixelmon Classic",
-            "mcVersion": "Minecraft 1.10.2",
-            "modVersion": "1.0.0",
-            "pkVersion": "Pixelmon 5.1.2",
-            "changeLog": [ ],
-            "updateURL": "https://github.com/kcaf/PixelPlus",
-            "isDirectLink": "false",
-            "newFileName": ""
-        },
-        {
-            "description": "Pixelmon Classic",
-            "mcVersion": "Minecraft 1.10.2",
-            "modVersion": "1.0.0",
-            "pkVersion": "Pixelmon 5.0.4",
-            "changeLog": [ ],
-            "updateURL": "https://github.com/kcaf/PixelPlus",
-            "isDirectLink": "false",
-            "newFileName": ""
+            "homepage": "https://github.com/kcaf/PixelPlus",
+            "1.10.2": {
+                "1.0.0": "https://github.com/kcaf/PixelPlus/wiki/Change-Log"
+            }
         }
     ]
 }
