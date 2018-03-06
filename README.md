@@ -15,6 +15,9 @@ The development of this mod is supported by optional CPU Donations. *This is dis
 __ATTENTION:__ This is an alpha release and could crash! Server support will not be added until release.  
 ### Minecraft 1.12.2&nbsp;&nbsp;&nbsp;&nbsp; - [PixelPlus 2.0.0-alpha5](https://mega.nz/#!x2JS2YbK!7qNbr7EFbpMxPnrDO92cunXS4OUfM0LNUp5fdL7-q-s)
 
+## Video
+[![1](https://i.imgur.com/qGURFqE.jpg)](https://streamable.com/2vmzg)
+
 ## Screenshots
 ![1](https://i.imgur.com/BNGeI0W.png)
 ![2](https://i.imgur.com/wuQMXUY.png)
