@@ -11,9 +11,9 @@ The development of this mod is supported by optional CPU Donations. *This is dis
 - Add Particle Effects to Pixelmon
 - Custom Color Tint your Pixelmon
 
-# Download
-__**ATTENTION**: This is an alpha release and could crash!__  
-Minecraft 1.12.2      - [PixelPlus 2.0.0-alpha3](https://mega.nz/#!A65ShDTA!meU_vfB3FqiHRJTu3lZYpmIbedeSlrBB4RAto6sgP_Q)
+# Download ([Change Log](https://github.com/kcaf/PixelPlus/wiki/Change-Log))
+__ATTENTION:__ This is an alpha release and could crash! Server support will not be added until release.  
+### Minecraft 1.12.2&nbsp;&nbsp;&nbsp;&nbsp; - [PixelPlus 2.0.0-alpha3](https://mega.nz/#!A65ShDTA!meU_vfB3FqiHRJTu3lZYpmIbedeSlrBB4RAto6sgP_Q)
 
 ## Screenshots
 ![1](https://i.imgur.com/BNGeI0W.png)
