@@ -12,7 +12,8 @@ The development of this mod is supported by optional CPU Donations. *This is dis
 - Custom Color Tint your Pixelmon
 
 # Download
-Minecraft 1.12.2      - PixelPlus 2.0.0 (Coming Soon!)
+__**ATTENTION**: This is an alpha release and could crash!__  
+Minecraft 1.12.2      - [PixelPlus 2.0.0-alpha3](https://mega.nz/#!A65ShDTA!meU_vfB3FqiHRJTu3lZYpmIbedeSlrBB4RAto6sgP_Q)
 
 ## Screenshots
 ![1](https://i.imgur.com/BNGeI0W.png)
