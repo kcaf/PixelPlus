@@ -3,15 +3,16 @@
         "2.0.0": "See https://github.com/kcaf/PixelPlus/wiki/Change-Log",
         "2.0.0-a1": "",
         "2.0.0-a2": "",
-        "2.0.0-a3": ""
+        "2.0.0-a3": "",
+        "2.0.0-a4": "",
     },
     "1.10.2": {
         "1.0.0": "See https://github.com/kcaf/PixelPlus/wiki/Change-Log"
     },
     "homepage": "https://github.com/kcaf/PixelPlus",
     "promos": {
-        "1.12.2-latest": "2.0.0",
-        "1.12.2-recommended": "2.0.0",
+        "1.12.2-latest": "2.0.0-a4",
+        "1.12.2-recommended": "2.0.0-a4",
         "1.10.2-latest": "1.0.0",
         "1.10.2-recommended": "1.0.0"
     }
