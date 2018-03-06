@@ -7,8 +7,9 @@ The development of this mod is supported by optional CPU Donations. *This is dis
 ## Features
 - Removes Pixelmon name length limit
 - Allows color code and formatting Pixelmon names!
-- Display IV of Pixelmon
-- Display EV of Pixelmon
+- Display IV/EV of Pixelmon
+- Add Particle Effects to Pixelmon
+- Custom Color Tint your Pixelmon
 
 # Download
 Minecraft 1.12.2      - PixelPlus 2.0.0 (Coming Soon!)
