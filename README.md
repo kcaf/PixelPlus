@@ -1,5 +1,5 @@
 # PixelPlus for Minecraft Pixelmon
-[![Join Discord](https://i.imgur.com/5PeuGS2.png)](https://discord.gg/7zWEuT8)
+[![Join Discord](https://i.imgur.com/5PeuGS2.png)](https://discord.gg/9Md7hMF)
 
 # Attention
 The development of this mod is supported by optional CPU Donations. *This is disabled by default.* If you like this mod, consider enabling the option in your Mod Settings and you can help support the development of PixelPlus! To those who support PixelPlus, you rock!! You can read more about CPU Donations at https://github.com/kcaf/PixelPlus/wiki/CPU-Donations.
